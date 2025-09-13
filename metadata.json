@@ -1,0 +1,5 @@
+{
+  "name": "AI University Campus Assistant",
+  "description": "An AI-powered chatbot designed to serve as a central information hub for university students, faculty, and staff, providing instant access to a wide array of campus-related data.",
+  "requestFramePermissions": []
+}
